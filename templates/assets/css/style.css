@@ -3049,8 +3049,8 @@ header.body .nav {
     z-index: 1005;
     width: 193px;
     padding: 10px 0 15px 0;
-    background: rgba(221, 209, 173, 0.9);
-    border-top: 13px solid #b7ac8b
+    background: rgb(14, 64, 111);
+    border-top: 13px solid #3A88D0;
 }
 
 .lt-ie9 header.body .nav {
@@ -3075,10 +3075,30 @@ header.body .nav li:before {
 
 header.body .nav li a {
     display: inline;
-    color: #484333;
+    color: #FFFFFF;
     text-decoration: none !important;
     background: none !important;
     border-bottom: 1px dotted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 header.body .nav li a:hover, header.body .nav li a.current {
